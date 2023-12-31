@@ -1,0 +1,14 @@
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\bin\Debug\net7.0\Exo-Banque.exe
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\bin\Debug\net7.0\Exo-Banque.deps.json
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\bin\Debug\net7.0\Exo-Banque.runtimeconfig.json
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\bin\Debug\net7.0\Exo-Banque.dll
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\bin\Debug\net7.0\Exo-Banque.pdb
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\obj\Debug\net7.0\Exo-Banque.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\obj\Debug\net7.0\Exo-Banque.AssemblyInfoInputs.cache
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\obj\Debug\net7.0\Exo-Banque.AssemblyInfo.cs
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\obj\Debug\net7.0\Exo-Banque.csproj.CoreCompileInputs.cache
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\obj\Debug\net7.0\Exo-Banque.dll
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\obj\Debug\net7.0\refint\Exo-Banque.dll
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\obj\Debug\net7.0\Exo-Banque.pdb
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\obj\Debug\net7.0\Exo-Banque.genruntimeconfig.cache
+C:\REPOSITORY\IWAD23-CSharp-OO\Exo-Banque\obj\Debug\net7.0\ref\Exo-Banque.dll

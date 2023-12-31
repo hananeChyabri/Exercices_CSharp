@@ -1,0 +1,14 @@
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\bin\Debug\net7.0\Exo-Exception-02.exe
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\bin\Debug\net7.0\Exo-Exception-02.deps.json
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\bin\Debug\net7.0\Exo-Exception-02.runtimeconfig.json
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\bin\Debug\net7.0\Exo-Exception-02.dll
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\bin\Debug\net7.0\Exo-Exception-02.pdb
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\obj\Debug\net7.0\Exo-Exception-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\obj\Debug\net7.0\Exo-Exception-02.AssemblyInfoInputs.cache
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\obj\Debug\net7.0\Exo-Exception-02.AssemblyInfo.cs
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\obj\Debug\net7.0\Exo-Exception-02.csproj.CoreCompileInputs.cache
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\obj\Debug\net7.0\Exo-Exception-02.dll
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\obj\Debug\net7.0\refint\Exo-Exception-02.dll
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\obj\Debug\net7.0\Exo-Exception-02.pdb
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\obj\Debug\net7.0\Exo-Exception-02.genruntimeconfig.cache
+C:\REPOSITORY\ExercicesCSharp\Exo-Exception\obj\Debug\net7.0\ref\Exo-Exception-02.dll
